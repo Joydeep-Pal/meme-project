@@ -4,7 +4,7 @@ html{
 
 img{
     padding: 5px;
-    border: 10px solid white;
+    border: 10px double white;
     width: 800px;
     height: 450px;
 }
